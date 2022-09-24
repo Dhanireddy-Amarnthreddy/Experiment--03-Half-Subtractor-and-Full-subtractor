@@ -57,11 +57,11 @@ endmodule
 ## Output:
 
 ## Truthtable
-##Half subtractor truth table:
+## Half subtractor truth table:
 ![11](https://user-images.githubusercontent.com/94165103/192112275-1f6d5f81-0aa7-44f1-b735-e73dbfd74612.png)
 
 
-##Full subtractor truth table:
+## Full subtractor truth table:
 ![12](https://user-images.githubusercontent.com/94165103/192112302-bcf5d0a5-7743-4eb2-9b13-42794ba458d8.png)
 
 ##  RTL realization
